@@ -17,8 +17,6 @@ Pod::Spec.new do |s|
 
   s.dependency 'jsonPRC'
 
-  s.dependency 'walletConnectCommons', '~> 1.0.0'
-
   s.swift_version = '5'
   
 
