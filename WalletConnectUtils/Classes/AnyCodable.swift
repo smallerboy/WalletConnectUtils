@@ -1,4 +1,4 @@
 import Foundation
-import Commons
+import walletConnectCommons
 
-public typealias AnyCodable = Commons.AnyCodable
+public typealias AnyCodable = walletConnectCommons.AnyCodable

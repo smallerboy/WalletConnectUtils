@@ -1,4 +1,4 @@
-import JSONRPC
+import jsonPRC
 
 public final class RPCHistory {
 
