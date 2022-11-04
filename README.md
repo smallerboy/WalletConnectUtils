@@ -17,7 +17,7 @@ WalletConnectUtils is available through [CocoaPods](https://cocoapods.org). To i
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'WalletConnectUtils'
+pod 'WalletConnectUtils', '~> 1.0.1'
 ```
 
 ## Author
